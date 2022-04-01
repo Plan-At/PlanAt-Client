@@ -1,6 +1,7 @@
 import React from 'react';
 import {Container, Row, Col} from "react-bootstrap";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
+// Bootstrap CSS will be imported on index.js
 
 import './OldDraggableCalendar.css'
 
