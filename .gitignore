@@ -24,3 +24,5 @@ yarn-debug.log*
 yarn-error.log*
 node.exe
 start.cmd
+
+.idea
