@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import DraggableCalendar from "./DraggableCalendar";
+import OldDraggableCalendar from "./OldDraggableCalendar";
 
 // Importing the Bootstrap CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-ReactDOM.render(<DraggableCalendar />, document.getElementById('root'));
+ReactDOM.render(<OldDraggableCalendar />, document.getElementById('root'));
